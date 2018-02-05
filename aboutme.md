@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
+[comment]: # (subtitle: Why you'd want to go on a date with me)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yuguang Tong. I am a Physics PhD student at UC Berkeley. I work on space plasma physics, in particular studying hot ionized gas coming out of our Sun.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In my leisure time, I enjoy hiking, having fun conversations and play with technologies. I plan to take some serious travelings before I get my degree.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I will add more stuff to this site soon so please check it out later!
